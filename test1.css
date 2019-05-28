@@ -6,33 +6,29 @@ header{background-color: black;
                  src: url('quicksand/Quicksand-Regular.otf');}
 
 ul li{
-   width: 15%;
-  height: 10px;
-  padding:5px;
+   
   display: inline-table;
-  text-align: center;
-  background-color: black;
-
-  left: 0;
-  
-  
+margin-right : 5%;
+height : 120%;
 
 }
+
 ul li a{
-	text-decoration: none;
 	color : white;
-}
-
-
-ul li:hover a{
-	text-decoration: none;
-	color : black;
-}
-ul li:hover{
-	background : white;
-	color : black;
+	background-color : black;
+	text-align : center;
+	text-decoration : none;
+	display : block;
+	line-height : 40px;
+	width : 120%;
 	
 }
+
+ul li a:hover{
+	color:black;
+	background-color : white;
+}
+
 
 body{font-family:quicksand;
 	background-color: black;
@@ -47,10 +43,13 @@ body{font-family:quicksand;
 	margin-bottom: 50;
 
 	}
- ul {padding-top: 50px;
+ ul {
+	 
+  
 }
 margin: 0;}
- ul li a{text-decoration: none;}
+
+
 
 .anim{
  	width: 20%;
