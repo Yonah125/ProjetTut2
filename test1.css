@@ -37,9 +37,19 @@ ul li:hover{
 body{font-family:quicksand;
 	background-color: black;
 	color: white;
+	position:absolute;
+	margin: 10px;
+
+
+
+	overflow-x: scroll;
+	overflow-y: scroll;
+
+			/*white-space:nowrap;  */
+
 	}
 .logo{
-	width: 15%;
+	width: 200px;
 	
 	margin-right: 0px;
 	margin-left: -50px;
@@ -53,7 +63,7 @@ margin: 0;}
  ul li a{text-decoration: none;}
 
 .anim{
- 	width: 20%;
+ 	width: 300px;
  }
 div{
  	
