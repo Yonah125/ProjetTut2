@@ -12,16 +12,28 @@ ul li{
   display: inline-table;
   text-align: center;
   background-color: black;
-  
+
   left: 0;
   
   
 
 }
 ul li a{
-	color:white;
 	text-decoration: none;
+	color : white;
 }
+
+
+ul li:hover a{
+	text-decoration: none;
+	color : black;
+}
+ul li:hover{
+	background : white;
+	color : black;
+	
+}
+
 body{font-family:quicksand;
 	background-color: black;
 	color: white;
