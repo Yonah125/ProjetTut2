@@ -1,9 +1,18 @@
-header{background-color: black;
+header{background-color:  #004575;
     
     text-align: center;
-  padding-bottom: 10px;}
+  padding-bottom: 10px;
+   margin-top: 25px;
+	border-radius: 10px;
+  
+  }
+  
+  
+  
   @font-face {font-family: quicksand;
-                 src: url('quicksand/Quicksand-Regular.otf');}
+                 src: url('quicksand/Quicksand-Regular.otf');
+                 }
+                 
 
 ul li{
    
@@ -11,16 +20,19 @@ ul li{
 margin-right : 5%;
 height : 120%;
 
+
+
 }
 
 ul li a{
-	color : white;
-	background-color : black;
+	color : #96b2ea;
+	background-color : HEX #96b2ea;
 	text-align : center;
 	text-decoration : none;
 	display : block;
 	line-height : 40px;
 	width : 120%;
+	border-radius: 10px;
 	
 }
 
@@ -31,7 +43,10 @@ ul li a{
 	
 }
 
-
+.work img{
+	width:50%;
+	height:50;
+}
 
 section{
 	margin : auto;
@@ -85,3 +100,37 @@ div{
  figcaption{
  	color: white;
  }
+
+body{
+background-color:#555555;
+}
+
+section{
+background-color:#f5f5f5;
+width:80%;
+
+}
+
+h1{
+	color:#004575;
+	background-color: #cccccc;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding-right: 5%;
+    margin-left:25%;
+    padding-left: 10px;
+    padding-right: 5%;
+    display: table;
+    font-family:Arial, Helvetica, sans-serif, normal;
+
+	
+	}
+#titres{
+	    margin-top: 25px;
+    margin-left: 15px;
+    padding-left: 10px;
+    padding-right: 5%;
+    display: table;
+    }
+
+
