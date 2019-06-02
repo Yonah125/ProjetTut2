@@ -26,7 +26,7 @@ height : 120%;
 
 ul li a{
 	color : #96b2ea;
-	background-color : HEX #96b2ea;
+	background-color:#cccccc;
 	text-align : center;
 	text-decoration : none;
 	display : block;
@@ -41,11 +41,16 @@ ul li a{
 	width : 100%;
 	text-align : center;
 	
+	
 }
 
 .work img{
 	width:50%;
 	height:50;
+}
+
+.work figcaption{
+color:black;
 }
 
 section{
@@ -132,5 +137,32 @@ h1{
     padding-right: 5%;
     display: table;
     }
+.Imaprojet{
+	
+	width : 100%;
+	text-align : center;
+	height:50%;
+	  margin-left: auto;
+  margin-right: auto;
+  color:black;
+border-radius: 25px;
+  display: block;
+}
+
+#fc{
+  border-bottom: 2px solid rgb(75,75,75,0.8);
+  color:black;
+  text-align : center;
+  }
+
+article{
+color:black;
+}
+
+
+
+#ps1a{
+margin-left:20px;
+}
 
 
