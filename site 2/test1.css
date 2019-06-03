@@ -24,6 +24,24 @@ ul li a{
 	
 }
 
+.work{
+	margin : auto;
+	width : 100%;
+	text-align : center;
+	
+}
+
+
+
+section{
+	margin : auto;
+}
+
+.projet{
+margin : 1%;
+width : 45%;
+}
+
 ul li a:hover{
 	color:black;
 	background-color : white;
@@ -67,8 +85,12 @@ margin: 0;}
  }
 div{
  	
+<<<<<<< HEAD:test1.css
  	margin: 60px;
  	margin-left: 200px;
+=======
+ 	margin: auto;
+>>>>>>> c4e4623350fc2b63a96ea5a762ae9200019d1c2d:site 2/test1.css
  	float: left;
  	
 

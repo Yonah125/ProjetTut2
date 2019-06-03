@@ -1,0 +1,168 @@
+header{background-color:  #004575;
+    
+    text-align: center;
+  padding-bottom: 10px;
+   margin-top: 25px;
+	border-radius: 10px;
+  
+  }
+  
+  
+  
+  @font-face {font-family: quicksand;
+                 src: url('quicksand/Quicksand-Regular.otf');
+                 }
+                 
+
+ul li{
+   
+  display: inline-table;
+margin-right : 5%;
+height : 120%;
+
+
+
+}
+
+ul li a{
+	color : #96b2ea;
+	background-color:#cccccc;
+	text-align : center;
+	text-decoration : none;
+	display : block;
+	line-height : 40px;
+	width : 120%;
+	border-radius: 10px;
+	
+}
+
+.work{
+	margin : auto;
+	width : 100%;
+	text-align : center;
+	
+	
+}
+
+.work img{
+	width:50%;
+	height:50;
+}
+
+.work figcaption{
+color:black;
+}
+
+section{
+	margin : auto;
+}
+
+.projet{
+margin : 1%;
+width : 45%;
+}
+
+ul li a:hover{
+	color:black;
+	background-color : white;
+}
+
+
+body{font-family:quicksand;
+	background-color: black;
+	color: white;
+	}
+.logo{
+	width: 15%;
+	
+	margin-right: 0px;
+	margin-left: -50px;
+	margin-top: 0;
+	margin-bottom: 50;
+
+	}
+ ul {
+	 
+  
+}
+margin: 0;}
+
+
+
+.anim{
+ 	width: 20%;
+ }
+div{
+ 	
+ 	margin: auto;
+ 	float: left;
+
+ 	 
+ }
+ img {
+ 	margin: 20px
+ }
+ figcaption{
+ 	color: white;
+ }
+
+body{
+background-color:#555555;
+}
+
+section{
+background-color:#f5f5f5;
+width:80%;
+
+}
+
+h1{
+	color:#004575;
+	background-color: #cccccc;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding-right: 5%;
+    margin-left:25%;
+    padding-left: 10px;
+    padding-right: 5%;
+    display: table;
+    font-family:Arial, Helvetica, sans-serif, normal;
+
+	
+	}
+#titres{
+	    margin-top: 25px;
+    margin-left: 15px;
+    padding-left: 10px;
+    padding-right: 5%;
+    display: table;
+    }
+.Imaprojet{
+	
+	width : 100%;
+	text-align : center;
+	height:50%;
+	  margin-left: auto;
+  margin-right: auto;
+  color:black;
+border-radius: 25px;
+  display: block;
+}
+
+#fc{
+  border-bottom: 2px solid rgb(75,75,75,0.8);
+  color:black;
+  text-align : center;
+  }
+
+article{
+color:black;
+}
+
+
+
+#ps1a{
+margin-left:20px;
+}
+
+
