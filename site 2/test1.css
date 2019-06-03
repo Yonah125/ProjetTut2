@@ -1,0 +1,87 @@
+header{background-color: black;
+    
+    text-align: center;
+  padding-bottom: 10px;}
+  @font-face {font-family: quicksand;
+                 src: url('quicksand/Quicksand-Regular.otf');}
+
+ul li{
+   
+  display: inline-table;
+margin-right : 5%;
+height : 120%;
+
+}
+
+ul li a{
+	color : white;
+	background-color : black;
+	text-align : center;
+	text-decoration : none;
+	display : block;
+	line-height : 40px;
+	width : 120%;
+	
+}
+
+.work{
+	margin : auto;
+	width : 100%;
+	text-align : center;
+	
+}
+
+
+
+section{
+	margin : auto;
+}
+
+.projet{
+margin : 1%;
+width : 45%;
+}
+
+ul li a:hover{
+	color:black;
+	background-color : white;
+}
+
+
+body{font-family:quicksand;
+	background-color: black;
+	color: white;
+	}
+.logo{
+	width: 15%;
+	
+	margin-right: 0px;
+	margin-left: -50px;
+	margin-top: 0;
+	margin-bottom: 50;
+
+	}
+ ul {
+	 
+  
+}
+margin: 0;}
+
+
+
+.anim{
+ 	width: 20%;
+ }
+div{
+ 	
+ 	margin: auto;
+ 	float: left;
+
+ 	 
+ }
+ img {
+ 	margin: 20px
+ }
+ figcaption{
+ 	color: white;
+ }
