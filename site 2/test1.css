@@ -1,4 +1,8 @@
-header{background-color: black;
+html{
+	--bg : black;
+}
+
+header{background-color: var(--bg);
     
     text-align: center;
   padding-bottom: 10px;}
@@ -15,7 +19,7 @@ height : 120%;
 
 ul li a{
 	color : white;
-	background-color : black;
+	background-color : var(--bg);
 	text-align : center;
 	text-decoration : none;
 	display : block;
@@ -50,7 +54,7 @@ ul li a:hover{
 
 
 body{font-family:quicksand;
-	background-color: black;
+	background-color: var(--bg);
 	color: white;
 	position: absolute;
 	margin: 10px;
