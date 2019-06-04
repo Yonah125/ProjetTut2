@@ -40,6 +40,7 @@ section{
 .projet{
 margin : 1%;
 width : 45%;
+float : left;
 }
 
 ul li a:hover{
