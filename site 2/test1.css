@@ -1,9 +1,6 @@
-html{
-	--bg : #659DBD;
-}
 
-header{background-color: var(--bg);
-    
+header{background-color: #ff2800;
+    padding : 0px;
     text-align: center;
   padding-bottom: 10px;}
   @font-face {font-family: quicksand;
@@ -86,9 +83,9 @@ ul li a:hover{
 
 
 body{font-family:quicksand;
-	background-color: var(--bg);
+	background-color: #659DBD;
 	color: white;
-	margin: 10px;
+	margin: 0;
 
 /*overflow-x: scroll;
 
