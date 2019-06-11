@@ -47,6 +47,17 @@ section{
 margin : 1%;
 width : 45%;
 float : left;
+padding-left : 2%;
+}
+
+
+
+.projet h1{
+	text-align : center;
+}
+
+.projet img{
+	width : 100%;
 }
 
 ul li a:hover{
@@ -97,7 +108,7 @@ div{
 =======
  	margin: auto;
 >>>>>>> c4e4623350fc2b63a96ea5a762ae9200019d1c2d:site 2/test1.css
- 	float: left;
+ 	
  	
 
  	 
