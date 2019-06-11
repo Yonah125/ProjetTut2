@@ -56,7 +56,6 @@ ul li a:hover{
 body{font-family:quicksand;
 	background-color: var(--bg);
 	color: white;
-	position: absolute;
 	margin: 10px;
 
 /*overflow-x: scroll;
