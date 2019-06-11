@@ -1,0 +1,99 @@
+
+@font-face {font-family: quicksand;
+                 src: url('quicksand/Quicksand-Regular.otf');
+                 }
+
+
+header{
+		text-align: center;
+  padding:20px;
+  margin:0;
+  background-color:  #659DBD;
+      }
+      ul li a:hover{
+	
+	background-color : white;
+	color:black;
+
+	
+
+}
+ul li a{
+	
+      transition: all 0.5s ease-in-out;
+     
+     color: white;
+     
+     text-decoration: none;
+	border-radius: 10px;
+		font-size: 25px;
+		padding: 0;
+		margin:0;
+
+
+     
+    
+    
+   
+   
+  
+    
+
+
+}
+body{font-family:quicksand;
+	background-color:   #659DBD;
+	color: white;
+	text-decoration: none;
+	
+	}
+.logo{
+	width: 50%;
+
+}
+ul li a{
+	
+}
+ul li{
+	list-style-type: none;
+	padding-top: 5px;
+	       	padding-bottom: 5px;
+}
+.anim{
+	width: 70%;
+	position: center;
+}
+#titres{
+	
+
+	border-style: groove;
+	background-color: #F0F8FF;
+	color:#FF1493;
+
+}
+#fc{
+	text-decoration:underline;
+	text-align:center;
+}
+#p{border-radius: 25px;
+		border-style:;
+	background-color: #cccccc
+	
+}
+#ps1a{
+	text-align:justify;
+	margin-left:20px;
+	margin-right:20px;
+}
+
+div{
+	text-align: center;
+}
+figure img{
+	width: 70%;
+	border-radius: 10px;
+}
+figcaption{
+		margin:15px;
+		text-align:justify;
+}
