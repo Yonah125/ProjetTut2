@@ -63,9 +63,18 @@ ul li{
 	background-color: orange;
 
 }
+#fc{
+	text-decoration:underline;
+	text-align:center;
+}
 #p{border-radius: 25px;
 		border-style:;
 	background-color: #cccccc
+}
+#ps1a{
+	text-align:justify;
+	margin-left:20px;
+	margin-right:20px;
 }
 
 div{
@@ -73,4 +82,10 @@ div{
 }
 figure img{
 	width: 70%;
+	border-radius: 10px;
+}
+
+figcaption{
+		margin:15px;
+		text-align:justify;
 }
