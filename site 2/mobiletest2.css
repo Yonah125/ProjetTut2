@@ -102,6 +102,11 @@ figcaption{
 		margin:15px;
 		text-align:justify;
 }
-footer{
-	position:relative;
+footer {
+	
+	text-align: center;
+	text-decoration: overline;
+
+	width : 100%;
+	margin: 0;
 }

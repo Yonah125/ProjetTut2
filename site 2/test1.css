@@ -15,12 +15,13 @@ height : 120%;
 }
 
 
-footer{
-	position : fixed;
-	bottom : 0px;
+footer {
+	position :absolute;
+	
 	width : 100%;
-	padding-top : 1%;
-	padding-bottom : 1%;
+	
+	text-align: center;
+	background-color: #ff2800;
 }
 
 ul li a{
@@ -35,9 +36,10 @@ ul li a{
 }
 
 .work{
-	margin : auto;
+	/*margin : auto;*/
 	height : 100%;
 	text-align : center;
+	margin-bottom: 1000px;
 	
 }
 .work2{
@@ -152,5 +154,17 @@ div{
  figcaption{
  	color: white;
  }
-
-
+div{
+	margin: 20px;
+	margin-bottom: 150px;
+}
+figure img{
+	width: 50%;
+}
+.Imaprojet{
+	margin-left: 270px;
+}
+#fc{
+	text-align: center;
+	text-decoration: underline;
+}
