@@ -40,7 +40,22 @@ ul li a{
 	text-align : center;
 	
 }
+.work2{
+	margin : auto;
+	height : 100%;
+	text-align : center;
+	
+}
 
+.work img {
+  transition: transform .2s; /* Animation */
+  width: 200x;
+  height: 250px;
+
+}
+.work img:hover {
+	transform: scale(1.5);
+}
 
 
 section{
@@ -129,9 +144,15 @@ div{
 
  	 
  }
+ 
+
  img {
  	margin: 20px
  }
  figcaption{
  	color: white;
  }
+
+footer{
+position:relative;
+}
