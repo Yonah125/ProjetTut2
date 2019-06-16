@@ -73,6 +73,13 @@ float : left;
 padding-left : 2%;
 }
 
+.projeta{
+margin : 1%;
+width : 45%;
+float : left;
+padding-left : 2%;
+}
+
 
 
 .projet h1{
@@ -167,4 +174,9 @@ figure img{
 #fc{
 	text-align: center;
 	text-decoration: underline;
+}
+
+#ps1a{
+text-align:center;
+
 }
